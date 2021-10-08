@@ -6,7 +6,7 @@ TP1_Syntaxe de base
 TP1A2
  */
 package tp1_stats_michelland_peron;
-
+    
 import java.util.Random;
 import java.util.Scanner;
 
